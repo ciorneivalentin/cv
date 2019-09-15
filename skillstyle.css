@@ -1,0 +1,10 @@
+.skilltable {
+	width: 100%;
+}
+.celltable {
+	width: 50%;
+	text-align: right;
+}
+.startable {
+	text-align: left;
+}
